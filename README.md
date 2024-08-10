@@ -17,9 +17,8 @@
 <div style="padding: 20px; border: 2px solid #00A1F1; border-radius: 10px; background-color: #1F1F1F; color: white; font-family: Arial, sans-serif; max-width: 500px; margin: 20px auto;">
   <h2 style="text-align: center; color: #00A1F1; animation: fadeIn 2s;"><span style="color: #9FEF00;"></span></h2>
   <p style="text-align: center; animation: fadeIn 3s;">
-    Soy un joven <strong>extrovertido</strong> con habilidades de comunicación que facilitan mi adaptación rápida a nuevos entornos de trabajo.
+Me presento como un joven extrovertido con habilidades de comunicación que facilitan mi adaptación rápida a nuevos entornos de trabajo. Apasionado por la tecnología y la fotografía, soy Ingeniero en Sistemas y Redes Informáticas, programador, consultor de ciberseguridad, y pentester | Flag Player 🚩🦝 (Red Team).
     <br/><br/>
-    Apasionado por la <strong>tecnología</strong> y la <strong>fotografía</strong>, soy Ingeniero en Sistemas y Redes Informáticas, <strong>programador</strong>, consultor de <strong>ciberseguridad</strong>, y <strong>pentester</strong> | Flag Player 🚩🦝 (Red Team).
   </p>
 </div>
 
