@@ -12,7 +12,7 @@
 </h2>
 
 
-### 👨🏻‍💻 &nbsp;Sobre Mí
+### 👨🏻‍💻 &nbsp; ME
 
 <div style="padding: 20px; border: 2px solid #00A1F1; border-radius: 10px; background-color: #1F1F1F; color: white; font-family: Arial, sans-serif; max-width: 500px; margin: 20px auto;">
   <h2 style="text-align: center; color: #00A1F1; animation: fadeIn 2s;"><span style="color: #9FEF00;"></span></h2>
