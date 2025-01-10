@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">✨ ¡Bienvenido a mi perfil de Github! ✨
-  <img src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif" width="30">
+<img src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif" width="30">
 </h2>
 
 <p align="center">
