@@ -13,7 +13,7 @@
 ---
 
 <h2 align="center">✨ ¡Bienvenido a mi perfil de Github! ✨
-  <img src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif" width="30">
+<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
 </h2>
 
 <p align="center">
