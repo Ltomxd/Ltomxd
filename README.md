@@ -88,11 +88,11 @@ Ubicación: El Salvador
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ltomxd&limit=100&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
+  <img src="https://wakatime.com/share/@Ltomxd/4c1e354d-e348-44a4-9d2c-efb7ebaf6c84.svg"/>
 </p>
 
 <p align="center">
