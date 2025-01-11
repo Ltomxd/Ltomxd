@@ -85,10 +85,6 @@ Ubicación: El Salvador
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=100&theme=algolia&hide_border=true&title_color=9FEF00"/>
 </p>
 
-<a href="https://github.com/Ltomxd">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ltomxd&theme=algolia&hide_border=true&ring=9FEF00&fire=00A1F1&currStreakLabel=9FEF00" />
 </p>
