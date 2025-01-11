@@ -92,8 +92,11 @@ Ubicación: El Salvador
 </p>
 
 <p align="center">
-<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" 
+<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
 </p>
+
+
+
 ---
 
 
