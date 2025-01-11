@@ -94,11 +94,6 @@ Ubicación: El Salvador
 <p align="center">
   <img src="https://wakatime.com/share/@Ltomxd/4c1e354d-e348-44a4-9d2c-efb7ebaf6c84.svg"/>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ltomxd&theme=algolia&langs_count=100"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/frameworks?username=Ltomxd&theme=algolia&langs_count=100"/>
-</p>
 ---
 
 ## 🚀 Contacto y Redes Sociales
