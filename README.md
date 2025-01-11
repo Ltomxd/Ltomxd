@@ -98,8 +98,9 @@ Ubicación: El Salvador
 
 ### 🎮 GitHub Snake Game - Mira cómo tu contribución crece 🐍
 <p align="center">
-  <img src="https://github.com/Ltomxd/Ltomxd/raw/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/output/github-contribution-grid-snake.svg"/>
 </p>
+
 
 
 ## 🚀 Contacto y Redes Sociales
