@@ -96,16 +96,11 @@ Ubicación: El Salvador
 </p>
 ---
 
-
-### 🌀 GitHub Skyline - Vista 3D de tus Contribuciones 🌆
+### 🎮 GitHub Snake Game - Mira cómo tu contribución crece 🐍
 <p align="center">
-  <a href="https://skyline.github.com/Ltomxd"><img src="https://img.shields.io/badge/🌆_Ver_Mi_Skyline-9FEF00?style=for-the-badge&logo=github&logoColor=black"/></a>
+  <img src="https://github.com/Ltomxd/Ltomxd/raw/output/github-contribution-grid-snake.svg"/>
 </p>
 
-### 🎵 GitHub Music Player - Escucha mientras codificas 🎶
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=Ltomxd&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true"/></a>
-</p>
 
 ## 🚀 Contacto y Redes Sociales
 
