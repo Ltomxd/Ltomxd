@@ -22,7 +22,7 @@
 
 ---
 
-## 🔥 &nbsp;Sobre Mí 🚩🦝
+## 🔥 &nbsp;About me 🚩🦝
 
 ```yaml
 Name: Franklyn Esaú Polío Velásquez
@@ -78,7 +78,7 @@ Location: El Salvador
 
 ---
 
-## 🎯 &nbsp;Estadísticas en GitHub 🚀
+## 🎯 &nbsp;Statistics on GitHub 🚀
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1&langs_count=100"/>
@@ -99,7 +99,7 @@ Location: El Salvador
 </p>
 
 
-## 🚀 Contacto y Redes Sociales
+## 🚀 Contact and Social Networks
 
 <p align="center">
   <a href="https://linkedin.com/in/ftoml" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
