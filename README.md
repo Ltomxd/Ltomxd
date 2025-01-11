@@ -92,9 +92,18 @@ Ubicación: El Salvador
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Ltomxd&theme=react-dark&hide_border=true&color=9FEF00&line=00A1F1&point=FFFFFF" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ltomxd&limit=5&theme=algolia&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ltomxd&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ltomxd&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ltomxd&theme=algolia"/>
+</p>
 ---
 
 ## 🚀 Contacto y Redes Sociales
