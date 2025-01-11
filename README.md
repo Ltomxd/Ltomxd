@@ -79,7 +79,7 @@ Ubicación: El Salvador
 ## 🎯 &nbsp;Estadísticas en GitHub 🚀
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1&langs_count=100"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=100&theme=algolia&hide_border=true&title_color=9FEF00"/>
 </p>
 
@@ -93,12 +93,6 @@ Ubicación: El Salvador
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ltomxd&theme=algolia"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ltomxd&theme=algolia&langs_count=100"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ltomxd&theme=algolia"/>
 </p>
 ---
 
