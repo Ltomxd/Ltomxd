@@ -92,7 +92,7 @@ Ubicación: El Salvador
 </p>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@Ltomxd/4c1e354d-e348-44a4-9d2c-efb7ebaf6c84.svg"/>
+<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
 </p>
 ---
 
