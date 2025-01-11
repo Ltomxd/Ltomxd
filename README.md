@@ -40,7 +40,7 @@ Ubicación: El Salvador
 ---
 
 ### 🛠 &nbsp;Tech Stack
-<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
+
 ![Parrot](https://img.shields.io/badge/-Parrot-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
