@@ -33,7 +33,7 @@ Ubicación: El Salvador
 
 💻 **Me especializo en:** Seguridad ofensiva, hacking ético, OSINT, desarrollo web y automatización de procesos.
 
-📸 **Hobbies:** Fotografía, CTFs y captura de flags. 🚩
+📸 **Hobbies:** Fotografía, CTFS  captura de flags. 🚩
 
 🚀 **Objetivo:** Explorar nuevas técnicas en seguridad y contribuir a la comunidad de ciberseguridad. 💀
 <p align="center">
