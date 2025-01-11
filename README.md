@@ -17,9 +17,8 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Engineer+in+Systems+and+Network+Computing;Pentester+%7C+Flag+Player+%7C+Red+Team;Cybersecurity+Consultant;Passionate+about+Technology+and+Photography"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Engineer+in+Systems+and+Network+Computing;Pentester+%7C+Flag+Player+%7C+Red+Team;Cybersecurity+Consultant;Developer;Passionate+about+Technology+and+Photography"/>
 </p>
-
 
 
 ## 🔥 &nbsp;About me 🚩🦝
