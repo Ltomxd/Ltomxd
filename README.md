@@ -94,6 +94,11 @@ Ubicación: El Salvador
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ltomxd&theme=algolia&langs_count=100"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/frameworks?username=Ltomxd&theme=algolia"/>
+</p>
 ---
 
 ## 🚀 Contacto y Redes Sociales
