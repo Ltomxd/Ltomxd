@@ -88,7 +88,7 @@ Ubicación: El Salvador
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Ltomxd&limit=5&theme=algolia&hide_border=true" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Ltomxd&limit=100&theme=algolia&hide_border=true" />
 </p>
 
 <p align="center">
@@ -97,7 +97,7 @@ Ubicación: El Salvador
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ltomxd&theme=algolia&langs_count=100"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/frameworks?username=Ltomxd&theme=algolia"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/frameworks?username=Ltomxd&theme=algolia&langs_count=100"/>
 </p>
 ---
 
