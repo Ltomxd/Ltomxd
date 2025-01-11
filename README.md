@@ -17,10 +17,10 @@
 </h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas+y+Redes+Inform%C3%A1ticas;Pentester+%7C+Flag+Player+%7C+Red+Team;Consultor+de+Ciberseguridad;Apasionado+por+la+Tecnolog%C3%ADa+y+Fotograf%C3%ADa"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Engineer+in+Systems+and+Network+Computing;Pentester+%7C+Flag+Player+%7C+Red+Team;Cybersecurity+Consultant;Passionate+about+Technology+and+Photography"/>
 </p>
 
----
+
 
 ## 🔥 &nbsp;About me 🚩🦝
 
