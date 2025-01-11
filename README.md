@@ -36,7 +36,9 @@ Ubicación: El Salvador
 📸 **Hobbies:** Fotografía, CTFs y captura de flags. 🚩
 
 🚀 **Objetivo:** Explorar nuevas técnicas en seguridad y contribuir a la comunidad de ciberseguridad. 💀
-
+<p align="center">
+<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
+</p>
 ---
 
 ### 🛠 &nbsp;Tech Stack
@@ -90,14 +92,6 @@ Ubicación: El Salvador
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
 </p>
-
-<p align="center">
-<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
-</p>
-
-
-
----
 
 
 
