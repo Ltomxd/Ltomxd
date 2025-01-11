@@ -93,22 +93,10 @@ Ubicación: El Salvador
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
 </p>
 
-
-### 🕶️ Matrix Rain Code - Sumérgete en el código 💾
+### 🎮 GitHub Snake Game - Mira cómo tu contribución crece 🐍
 <p align="center">
-  <img src="https://github.com/Ltomxd/Ltomxd/raw/output/matrix-rain.svg"/>
-</p>
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/output/github-contribution-grid-snake.svg"/>
 
-### 🤖 Última Hackeada Ética - Simulación de Exploits 🔓
-<p align="center">
-  <img src="https://github.com/Ltomxd/Ltomxd/raw/output/exploit-simulation.svg"/>
-</p>
-
-### 💡 Easter Eggs - Mensajes Ocultos 🎭
-<p align="center">
-  <a href="#" onclick="alert('Has encontrado un secreto! 😏')">
-    <img src="https://img.shields.io/badge/Easter_Eggs_Descubrelo-9FEF00?style=for-the-badge&logo=secret&logoColor=black"/>
-  </a>
 </p>
 
 
