@@ -95,7 +95,10 @@ Ubicación: El Salvador
   <img src="https://wakatime.com/share/@Ltomxd/4c1e354d-e348-44a4-9d2c-efb7ebaf6c84.svg"/>
 </p>
 ---
-
+### 🎮 Juega Tetris Directamente en Mi Perfil 🎮
+<p align="center">
+  <a href="https://tetris.com/play-tetris"><img src="https://img.shields.io/badge/Play_Tetris-9FEF00?style=for-the-badge&logo=Tetris&logoColor=white"/></a>
+</p>
 ## 🚀 Contacto y Redes Sociales
 
 <p align="center">
