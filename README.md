@@ -12,7 +12,7 @@
 
 ---
 
-<h2 align="center">✨ ¡Bienvenido a mi perfil de Github! ✨
+<h2 align="center">✨ Welcome to my Github profile! ✨
   <img src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif" width="30">
 </h2>
 
@@ -25,17 +25,17 @@
 ## 🔥 &nbsp;Sobre Mí 🚩🦝
 
 ```yaml
-Nombre: Franklyn Esaú Polío Velásquez
+Name: Franklyn Esaú Polío Velásquez
 Alias: TOM
-Rol: Pentester | Desarrollador | Red Teamer
-Ubicación: El Salvador
+Role: Pentester | Developer | Red Team
+Location: El Salvador
 ```
 
-💻 **Me especializo en:** Seguridad ofensiva, hacking ético, OSINT, desarrollo web y automatización de procesos.
+💻 **I specialize in:** Offensive security, ethical hacking, OSINT, web development and process automation.
 
-📸 **Hobbies:** Fotografía, CTFS  captura de flags. 🚩
+📸 **Hobbies:** Photograph, CTFS  capture the flags. 🚩
 
-🚀 **Objetivo:** Explorar nuevas técnicas en seguridad y contribuir a la comunidad de ciberseguridad. 💀
+🚀 **Aim:** Explore new security techniques and contribute to the cybersecurity community. 💀
 <p align="center">
 <img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
 </p>
