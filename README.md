@@ -94,6 +94,23 @@ Ubicación: El Salvador
 </p>
 
 
+### 🕶️ Matrix Rain Code - Sumérgete en el código 💾
+<p align="center">
+  <img src="https://github.com/Ltomxd/Ltomxd/raw/output/matrix-rain.svg"/>
+</p>
+
+### 🤖 Última Hackeada Ética - Simulación de Exploits 🔓
+<p align="center">
+  <img src="https://github.com/Ltomxd/Ltomxd/raw/output/exploit-simulation.svg"/>
+</p>
+
+### 💡 Easter Eggs - Mensajes Ocultos 🎭
+<p align="center">
+  <a href="#" onclick="alert('Has encontrado un secreto! 😏')">
+    <img src="https://img.shields.io/badge/Easter_Eggs_Descubrelo-9FEF00?style=for-the-badge&logo=secret&logoColor=black"/>
+  </a>
+</p>
+
 
 ## 🚀 Contacto y Redes Sociales
 
