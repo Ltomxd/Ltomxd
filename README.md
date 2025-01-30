@@ -24,7 +24,7 @@
 ## 🔥 &nbsp;About me 🚩🦝
 
 ```yaml
-Name: Franklyn Esaú Polío Velásquez
+Name: Franklyn Velásquez
 Alias: TOM
 Role: Pentester | Developer | Red Team
 Location: El Salvador
