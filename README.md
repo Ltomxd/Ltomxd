@@ -4,9 +4,8 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ftoml"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/l11tom/?utm_source=qr"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
   <a href="https://app.hackthebox.com/profile/1767382"><img src="https://img.shields.io/badge/-HackTheBox%20-9FEF00?style=flat&logo=hack-the-box&logoColor=black"/></a>
-  <a href="https://pentester-developer-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
+  <a href="https://portafolio-nextjs-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:velasquez8014@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 
