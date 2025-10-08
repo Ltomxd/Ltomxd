@@ -100,11 +100,17 @@ Location: El Salvador
 ## 🚀 Contact and Social Networks
 
 <p align="center">
-  <a href="https://linkedin.com/in/ftoml" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/1767382" target="_blank"><img src="https://img.shields.io/badge/-HackTheBox%20-9FEF00?style=flat&logo=hack-the-box&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/ftoml"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://app.hackthebox.com/profile/1767382"><img src="https://img.shields.io/badge/-HackTheBox%20-9FEF00?style=flat&logo=hack-the-box&logoColor=black"/></a>
   <a href="https://portafolio-nextjs-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:velasquez8014@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:velasquez8014@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+
+  <!-- Contador de visitas -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLtomxd&count_bg=%239FEF00&title_bg=%231F1F1F&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
+  </a>
 </p>
+
 
 ---
 
