@@ -105,11 +105,10 @@ Location: El Salvador
   <a href="https://portafolio-nextjs-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
   <a href="mailto:velasquez8014@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-  <!-- Contador de visitas -->
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLtomxd&count_bg=%239FEF00&title_bg=%231F1F1F&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
-  </a>
+  <!-- Contador Komarev -->
+  <img src="https://komarev.com/ghpvc/?username=Ltomxd&label=Profile%20views&color=blue&style=plastic" alt="Profile views"/>
 </p>
+
 
 
 ---
