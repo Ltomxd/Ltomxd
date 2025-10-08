@@ -19,12 +19,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Engineer+in+Systems+and+Network+Computing;Pentester+%7C+Flag+Player+%7C+Red+Team;Cybersecurity+Consultant;Developer;Passionate+about+Technology+and+Photography"/>
 </p>
 
-<!-- Contador de visitas centrado -->
-<p align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLtomxd&count_bg=%239FEF00&title_bg=%231F1F1F&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false"/>
-  </a>
-</p>
 
 
 
