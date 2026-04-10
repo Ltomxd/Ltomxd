@@ -5,8 +5,11 @@
 <br/>
 
 <div align="center">
+ 
+<img src="https://media.giphy.com/media/kAbWiuvtzoG3e/giphy.gif" width="400"/>
+ 
+<br/>
 
-<img https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVvZmxuaHB1ejUya3ltY2JzcTI2MGQ3a3JxOXlkZDVyYTQ2amI1NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kAbWiuvtzoG3e/giphy.gif />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&lines=Pentester+%7C+Red+Team+%7C+CTF+Hunter;Full+Stack+Developer+%7C+React+%7C+Next.js;I+break+apps...+then+I+build+better+ones;Dual+threat+-+Offensive+%26+Creative;El+Salvador+%7C+Always+on+mission"/>
 
