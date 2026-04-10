@@ -159,21 +159,6 @@
 
 ---
 
-## 🧠 Skills at a Glance
-
-```
-Pentesting & Red Team    ████████████████████░░  95%
-Full Stack Development   █████████████████░░░░░  85%
-Python / Bash Scripting  ██████████████████░░░░  90%
-OSINT & Recon            ████████████████████░░  95%
-React / Next.js          ████████████████░░░░░░  80%
-Database Design          ██████████████░░░░░░░░  70%
-DevOps / Docker          █████████████░░░░░░░░░  65%
-CTF / Exploit Dev        ███████████████████░░░  93%
-```
-
----
-
 ## 📊 Intel Report — GitHub Stats
 
 <div align="center">
