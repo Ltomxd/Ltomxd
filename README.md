@@ -76,32 +76,29 @@
 
 <div align="center">
 
-**— Environment —**
-
-<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" title="Kali Linux · Linux"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/vmware/607078" height="48" alt="VMware" title="VMware"/>
-
-<br/><br/>
-
-**— Tools —**
-
+&nbsp;
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/parrot.svg" height="48" alt="Parrot OS" title="Parrot OS"/>
+&nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP" title="OWASP"/>
+<img src="https://cdn.simpleicons.org/owasp/9FEF00" height="48" alt="OWASP" title="OWASP"/>
 &nbsp;
-<img src="https://cdn.simpleicons.org/nmap/4EAA25" height="48" alt="Nmap" title="Nmap"/>
-
-<br/>
-
-![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&labelColor=9FEF00&color=0D1117&label=FFUF)
-![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&labelColor=9FEF00&color=0D1117&label=Gobuster)
-![Nikto](https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&labelColor=9FEF00&color=0D1117&label=Nikto)
-![OSINT](https://img.shields.io/badge/OSINT-8B0000?style=for-the-badge&logoColor=white)
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/nmap.svg" height="48" alt="Nmap" title="Nmap"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/ffuf.svg" height="48" alt="FFUF" title="FFUF"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/gobuster.svg" height="48" alt="Gobuster" title="Gobuster"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/nikto.svg" height="48" alt="Nikto" title="Nikto"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/osint.svg" height="48" alt="OSINT" title="OSINT"/>
 
 </div>
 
