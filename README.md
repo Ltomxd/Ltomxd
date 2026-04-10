@@ -80,7 +80,7 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/vmware/607078" height="48" alt="VMware" title="VMware"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/parrot.svg" height="48" alt="Parrot OS" title="Parrot OS"/>
+<img src="[https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/parrot.svg](https://camo.githubusercontent.com/abd8ef1f5534dc1d0f89b8d928d7438054b8b2d6c49ca20b51fb8e01d43fed8c/68747470733a2f2f6769746c61622e636f6d2f706172726f747365632f70726f6a6563742f67726170686963732f2d2f7261772f643139616338613131323932313336636461346231646638306132626431353666373638666564382f6c6f676f2f706172726f742d6c6f676f2e737667)" height="48" alt="Parrot OS" title="Parrot OS"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
 &nbsp;
