@@ -2,115 +2,252 @@
   <img src="https://github.com/user-attachments/assets/d26dc564-9595-4eca-a4d6-a5f231eb72cf" width="100%"/>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/ftoml"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/1767382"><img src="https://img.shields.io/badge/-HackTheBox%20-9FEF00?style=flat&logo=hack-the-box&logoColor=black"/></a>
-  <a href="https://portafolio-nextjs-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:velasquez8014@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+<br/>
 
----
+<div align="center">
 
-<h2 align="center">✨ Welcome to my Github profile! ✨
-  <img src="https://media.giphy.com/media/Dg4TxjYikCpiGd7tYs/giphy.gif" width="30">
-</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=9FEF00&center=true&vCenter=true&width=600&lines=Engineer+in+Systems+and+Network+Computing;Pentester+%7C+Flag+Player+%7C+Red+Team;Cybersecurity+Consultant;Developer;Passionate+about+Technology+and+Photography"/>
-</p>
-
-
-
-
-## 🔥 &nbsp;About me 🚩🦝
-
-```yaml
-Name: Franklyn Velásquez
-Alias: TOM
-Role: Pentester | Developer | Red Team
-Location: El Salvador
+```
+ ██████╗ ██████╗ ███████╗██████╗  ██████╗ ██████╗ ███████╗
+██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔════╝██╔═══██╗██╔════╝
+██║   ██║██████╔╝█████╗  ██████╔╝██║     ██║   ██║█████╗  
+██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██║     ██║   ██║██╔══╝  
+╚██████╔╝██║     ███████╗██║  ██║╚██████╗╚██████╔╝███████╗
+ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚══════╝
 ```
 
-💻 **I specialize in:** Offensive security, ethical hacking, OSINT, web development and process automation.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=1000&color=9FEF00&center=true&vCenter=true&width=750&lines=🔴+Pentester+%7C+Red+Team+%7C+CTF+Player;💻+Full+Stack+Developer+%7C+React+%7C+Next.js;🛡️+Breaking+things+to+make+them+stronger;🌐+Building+things+that+are+hard+to+break;🚩+Dual+threat%3A+I+hack+it+AND+build+it;📍+El+Salvador+—+Connecting+both+worlds"/>
 
-📸 **Hobbies:** Photograph, CTFS  capture the flags. 🚩
+<br/>
 
-🚀 **Aim:** Explore new security techniques and contribute to the cybersecurity community. 💀
-<p align="center">
-<img alt="Raccoon" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" align="right" width="150"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Franklyn%20Velásquez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-TOM-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-FFFFFF?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-nextjs-mu.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️%20Profile%20Views&color=9FEF00&style=for-the-badge)
 
-### 🛠 &nbsp;Tech Stack
-
-![Parrot](https://img.shields.io/badge/-Parrot-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=white)&nbsp;
-![Nmap](https://img.shields.io/badge/-Nmap-05122A?style=flat&logo=nmap&logoColor=white)&nbsp;
-![Burp Suite](https://img.shields.io/badge/-Burp%20Suite-05122A?style=flat&logo=burp-suite&logoColor=white)&nbsp;
-![Wireshark](https://img.shields.io/badge/-Wireshark-05122A?style=flat&logo=wireshark&logoColor=white)&nbsp;
-![VMware](https://img.shields.io/badge/-VMware-05122A?style=flat&logo=vmware&logoColor=white)&nbsp;
-![OSINT](https://img.shields.io/badge/-OSINT-05122A?style=flat&logo=osint&logoColor=white)&nbsp;
-![Nikto](https://img.shields.io/badge/-Nikto-05122A?style=flat&logo=nikto&logoColor=white)&nbsp;
-![Metasploit](https://img.shields.io/badge/-Metasploit-05122A?style=flat&logo=metasploit&logoColor=white)&nbsp;
-![FFUF](https://img.shields.io/badge/-FFUF-05122A?style=flat&logo=ffuf&logoColor=white)&nbsp;
-![Gobuster](https://img.shields.io/badge/-Gobuster-05122A?style=flat&logo=gobuster&logoColor=white)&nbsp;
-![OWASP](https://img.shields.io/badge/-OWASP-05122A?style=flat&logo=owasp&logoColor=white)&nbsp;
-![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)&nbsp;
-![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-05122A?style=flat&logo=wordpress&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=white)&nbsp;
-![Nginx](https://img.shields.io/badge/-Nginx-05122A?style=flat&logo=nginx&logoColor=white)&nbsp;
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-05122A?style=flat&logo=microsoft-office&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/-Canva-05122A?style=flat&logo=canva&logoColor=white)
+</div>
 
 ---
 
-## 🎯 &nbsp;Statistics on GitHub 🚀
+<img align="right" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" width="175px"/>
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1&langs_count=100"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=100&theme=algolia&hide_border=true&title_color=9FEF00"/>
-</p>
+## ⚡ `whoami`
 
+```yaml
+┌──────────────────────────────────────────────────┐
+│                                                  │
+│   Name      :  Franklyn Velásquez               │
+│   Alias     :  TOM  🦝                          │
+│   Roles     :  Pentester  |  Full Stack Dev     │
+│   Specialty :  Red Team  |  Web Apps            │
+│   Location  :  El Salvador  🇸🇻                │
+│   Status    :  [████████░░] Dual Mode Active    │
+│   Mindset   :  "I build it. I break it."        │
+│                                                  │
+└──────────────────────────────────────────────────┘
+```
 
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=1F1F1F&color=9FEF00&line=00A1F1&point=FFFFFF&hide_border=true" />
-</p>
-
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
-
-
-## 🚀 Contact and Social Networks
-
-<p align="center">
-  <a href="https://linkedin.com/in/ftoml"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://app.hackthebox.com/profile/1767382"><img src="https://img.shields.io/badge/-HackTheBox%20-9FEF00?style=flat&logo=hack-the-box&logoColor=black"/></a>
-  <a href="https://portafolio-nextjs-mu.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:velasquez8014@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
-  <!-- Contador Komarev -->
-  <img src="https://komarev.com/ghpvc/?username=Ltomxd&label=Profile%20views&color=blue&style=plastic" alt="Profile views"/>
-</p>
-
-
+<br clear="right"/>
 
 ---
 
-<h3 align="center">🐺 "The lone wolf dies, but the pack survives." 🛡️</h3>
+## 🔀 Dual Identity — Two Worlds, One Dev
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔴 Security Side
+```
+> Role     : Pentester / Red Team
+> Goal     : Find what others miss
+> Weapons  : Burp Suite, Metasploit,
+             Nmap, OSINT, custom scripts
+> Mindset  : "Every system has a crack."
+> Certs    : HTB Active | OWASP Practitioner
+> Hunting  : 🚩 CTF Flags daily
+```
+**I exploit weak apps so real attackers can't.**
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Developer Side
+```
+> Role     : Full Stack Developer
+> Goal     : Ship fast, ship secure
+> Stack    : React · Next.js · Node.js
+             TypeScript · MongoDB · MySQL
+> Mindset  : "Security-first by design."
+> Style    : Clean code · Scalable APIs
+> Output   : 🌐 Production-ready apps
+```
+**I build the apps I know how to break.**
+
+</td>
+</tr>
+</table>
+
+> 💡 *The best developers understand how systems get compromised. The best pentesters understand how systems get built. I'm both.*
+
+---
+
+## 💀 Full Arsenal — Tech Stack
+
+<details open>
+<summary><b>🔴 Offensive Security & Pentesting</b></summary>
+<br>
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=for-the-badge&logo=linux&logoColor=black)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=for-the-badge&logo=nmap&logoColor=white)
+![FFUF](https://img.shields.io/badge/FFUF-05122A?style=for-the-badge&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-05122A?style=for-the-badge&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-05122A?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![OSINT](https://img.shields.io/badge/OSINT-8B0000?style=for-the-badge&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+<br>
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Databases</b></summary>
+<br>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🛠️ DevOps & Tools</b></summary>
+<br>
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+
+</details>
+
+---
+
+## 🧠 Skills at a Glance
+
+```
+Pentesting & Red Team    ████████████████████░░  95%
+Full Stack Development   █████████████████░░░░░  85%
+Python / Bash Scripting  ██████████████████░░░░  90%
+OSINT & Recon            ████████████████████░░  95%
+React / Next.js          ████████████████░░░░░░  80%
+Database Design          ██████████████░░░░░░░░  70%
+DevOps / Docker          █████████████░░░░░░░░░  65%
+CTF / Exploit Dev        ███████████████████░░░  93%
+```
+
+---
+
+## 📊 Intel Report — GitHub Stats
+
+<div align="center">
+
+<img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1&text_color=FFFFFF&bg_color=0D1117"/>
+<img height="185em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=10&theme=algolia&hide_border=true&title_color=9FEF00&text_color=FFFFFF&bg_color=0D1117"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ltomxd&theme=dark&hide_border=true&background=0D1117&ring=9FEF00&fire=FF6633&currStreakLabel=9FEF00&sideLabels=9FEF00&dates=FFFFFF&stroke=9FEF00)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🗺️ Activity — Commit Heatmap
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=0D1117&color=9FEF00&line=00A1F1&point=9FEF00&area=true&area_color=9FEF0033&hide_border=true&radius=8" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contributions Snake
+
+<div align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake animation"/>
+</div>
+
+---
+
+## 🏆 Trophy Case
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ltomxd&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📡 Signals — Connect With Me
+
+<div align="center">
+
+| Platform | Link |
+|:---:|:---:|
+| 💼 LinkedIn | [Franklyn Velásquez](https://linkedin.com/in/ftoml) |
+| 🟢 HackTheBox | [TOM — Profile](https://app.hackthebox.com/profile/1767382) |
+| 🌐 Portfolio | [portafolio-nextjs-mu.vercel.app](https://portafolio-nextjs-mu.vercel.app/) |
+| 📧 Email | [velasquez8014@gmail.com](mailto:velasquez8014@gmail.com) |
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║      🔴 "I build the apps I know how to break."  💻        ║
+║                                                              ║
+║       "The lone wolf dies, but the pack survives." 🛡️       ║
+║                                                              ║
+║                — TOM  🦝  |  El Salvador  🇸🇻             ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+**`[ security: on ]` · `[ dev mode: active ]` · `[ threat level: high ]` · `[ status: building & breaking ]`**
+
+</div>
