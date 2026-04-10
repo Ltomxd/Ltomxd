@@ -153,13 +153,7 @@
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ltomxd&theme=darkhub&no-frame=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
