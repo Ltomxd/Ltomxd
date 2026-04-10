@@ -74,19 +74,36 @@
 
 ### 🔴 Offensive Security
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  root@kali:~# cat /opt/toolkit/arsenal.cfg                      ║
-╠══════════════════╦═══════════════════╦═══════════════════════════╣
-║  📡  RECON       ║  💣  EXPLOIT      ║  🌐  WEB ATTACK          ║
-╠══════════════════╬═══════════════════╬═══════════════════════════╣
-║  ▸ Nmap          ║  ▸ Metasploit     ║  ▸ Burp Suite            ║
-║  ▸ Wireshark     ║  ▸ FFUF           ║  ▸ Nikto                 ║
-║  ▸ OSINT         ║  ▸ Gobuster       ║  ▸ OWASP Top 10          ║
-╠══════════════════╩═══════════════════╩═══════════════════════════╣
-║  🖥️  ENVIRONMENT  →  Kali Linux  ·  Parrot OS  ·  VMware        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+<div align="center">
+
+**— Environment —**
+
+<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/vmware/607078" height="48" alt="VMware" title="VMware"/>
+
+<br/><br/>
+
+**— Tools —**
+
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/owasp/000000" height="48" alt="OWASP" title="OWASP"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/nmap/4EAA25" height="48" alt="Nmap" title="Nmap"/>
+
+<br/>
+
+![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=for-the-badge&labelColor=9FEF00&color=0D1117&label=FFUF)
+![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=for-the-badge&labelColor=9FEF00&color=0D1117&label=Gobuster)
+![Nikto](https://img.shields.io/badge/Nikto-0D1117?style=for-the-badge&labelColor=9FEF00&color=0D1117&label=Nikto)
+![OSINT](https://img.shields.io/badge/OSINT-8B0000?style=for-the-badge&logoColor=white)
+
+</div>
 
 ---
 
