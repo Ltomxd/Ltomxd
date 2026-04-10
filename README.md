@@ -80,7 +80,9 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/vmware/607078" height="48" alt="VMware" title="VMware"/>
 &nbsp;
-<img src="https://iconos8.es/icon/9AGJqJd3YEdk/parrot-security" title="Parrot OS"/>
+<img src="<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
+<circle cx="24" cy="24" r="20" fill="#00e5ff"></circle><path fill="#212121" d="M16.84,16.408h-0.489c0,0-0.112-3.752,0.122-4.573c0.049-0.171,2.287-0.599,2.874-0.55 c0.587,0.049,0.183,0.22,1.492,0.746c1.308,0.526,5.784,1.932,5.784,1.932L35.5,29.451l-4.549-3.571l-0.44,8.217l-1.842-3.636 l-1.337,7.842c0,0-0.927-15.052-1.288-15.701c-0.245-0.44-2.739-0.962-2.739-0.962s-1.973-4.207-2.592-4.989 c-0.62-0.783-2.446-2.25-2.446-2.25L16.84,16.408z"></path>
+</svg>" title="Parrot OS"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
 &nbsp;
