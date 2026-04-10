@@ -74,22 +74,19 @@
 
 ### 🔴 Offensive Security
 
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-1793D1?style=flat-square&logo=kali-linux&logoColor=white)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-15E0ED?style=flat-square&logo=linux&logoColor=black)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4EAA25?style=flat-square&logo=nmap&logoColor=white)
-![FFUF](https://img.shields.io/badge/FFUF-0D1117?style=flat-square&logoColor=9FEF00&color=0D1117&labelColor=9FEF00&label=FFUF)
-![Gobuster](https://img.shields.io/badge/Gobuster-0D1117?style=flat-square&logoColor=9FEF00&color=0D1117&labelColor=9FEF00&label=Gobuster)
-![Nikto](https://img.shields.io/badge/Nikto-0D1117?style=flat-square&logoColor=9FEF00&color=0D1117&labelColor=9FEF00&label=Nikto)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-8B0000?style=flat-square&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
-</div>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  root@kali:~# cat /opt/toolkit/arsenal.cfg                      ║
+╠══════════════════╦═══════════════════╦═══════════════════════════╣
+║  📡  RECON       ║  💣  EXPLOIT      ║  🌐  WEB ATTACK          ║
+╠══════════════════╬═══════════════════╬═══════════════════════════╣
+║  ▸ Nmap          ║  ▸ Metasploit     ║  ▸ Burp Suite            ║
+║  ▸ Wireshark     ║  ▸ FFUF           ║  ▸ Nikto                 ║
+║  ▸ OSINT         ║  ▸ Gobuster       ║  ▸ OWASP Top 10          ║
+╠══════════════════╩═══════════════════╩═══════════════════════════╣
+║  🖥️  ENVIRONMENT  →  Kali Linux  ·  Parrot OS  ·  VMware        ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
