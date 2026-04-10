@@ -80,7 +80,7 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/vmware/607078" height="48" alt="VMware" title="VMware"/>
 &nbsp;
-<img width="48" height="48" alt="icons8-seguridad-loro-48" src="https://github.com/user-attachments/assets/fcf5df1b-e058-482d-b9c3-ad766f5cac85"/>"  
+<img width="48" height="48" alt="icons8-seguridad-loro-48" src="https://github.com/user-attachments/assets/fcf5df1b-e058-482d-b9c3-ad766f5cac85"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
 &nbsp;
@@ -90,9 +90,9 @@
 &nbsp;
 <img src="https://cdn.simpleicons.org/owasp/9FEF00" height="48" alt="OWASP" title="OWASP"/>
 &nbsp;
-<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/nmap.svg" height="48" alt="Nmap" title="Nmap"/>
+<img width="48" height="48" alt="icons8-nmap-48" src="https://github.com/user-attachments/assets/8cf77d06-c5cf-400c-84be-826caac822f3" />
 &nbsp;
-<img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/ffuf.svg" height="48" alt="FFUF" title="FFUF"/>
+<img src="https://github.com/ffuf/ffuf/blob/master/_img/ffuf_run_logo_600.png" height="48" alt="FFUF" title="FFUF"/>
 &nbsp;
 <img src="https://raw.githubusercontent.com/Ltomxd/Ltomxd/main/assets/icons/gobuster.svg" height="48" alt="Gobuster" title="Gobuster"/>
 &nbsp;
