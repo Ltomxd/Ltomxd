@@ -173,7 +173,7 @@
 ║    🔴  "I build the apps I know how to break."  💻        ║
 ║         "The lone wolf dies, but the pack survives."       ║
 ║                                                            ║
-║                  — TOM  🦝  ·  El Salvador  🇸🇻          ║
+║               — TOM  🦝  ·  El Salvador  🇸🇻                ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
