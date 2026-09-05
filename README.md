@@ -4,12 +4,23 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Profile+Views&color=9FEF00&style=for-the-badge)](https://github.com/Ltomxd)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/ftoml)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
+| **🪪 IDENTITY VERIFICATION** | **🔗 CONNECT** |
+|:---:|:---|
+| <img alt="TOM Badge" src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://portafolio-nextjs.lirictom209.workers.dev/" /> | [![Profile Views](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Views&color=9FEF00&style=flat-square)](https://github.com/Ltomxd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/l11frank/) [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=flat-square&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382) [![Portfolio](https://img.shields.io/badge/Portfolio-0ff3ff.svg?style=flat-square&logo=vercel&logoColor=black)](https://portafolio-nextjs.lirictom209.workers.dev/) |
 
-**TOM** 🦝 · **El Salvador** 🇸🇻 · **Full-Stack Security Engineer**
+```
+╔════════════════════════════════════════════════════════════╗
+║                    CLEARANCE: LEVEL 07                     ║
+║                   [ SYSTEM: ONLINE ]                       ║
+║                                                            ║
+║              TOM 🦝 — El Salvador 🇸🇻                      ║
+║              Pentester · Full-Stack Developer              ║
+║              Status: 100% OPERATIONAL                      ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+**Scan QR ↑** for **Portfolio & Direct Access**
 
 </div>
 
@@ -64,15 +75,13 @@ SSRF · LFI/RFI · JWT Vulnerabilities · API Security
 ```
 
 **Tools & Frameworks**
-<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" title="Kali · Linux"/>
+<img src="https://skillicons.dev/icons?i=kali,linux,ubuntu&theme=dark" title="Kali · Linux · Ubuntu"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/nmap/4169E1" height="48" alt="Nmap"/>
 &nbsp;
 <img src="https://cdn.simpleicons.org/owasp/9FEF00" height="48" alt="OWASP"/>
 
@@ -104,6 +113,49 @@ Node.js · Express · NestJS · MySQL · MongoDB · Firebase · WebSockets
 Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 
 </div>
+
+---
+
+## 🌐 Full-Stack & 3D Graphics Pipeline Architecture
+
+```
+┌─ FULL-STACK & 3D GRAPHICS PIPELINE ARCHITECTURE ─────────────────────────┐
+│                 [ REAL-TIME DATA STREAM // LATENCY < 20ms ]               │
+├─────────────────────────────────────────────────────────────────────────────┤
+│                                                                             │
+│  ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐   │
+│  │  💻 CLIENT      │      │  🎨 3D WEBGL    │      │  🔌 API         │   │
+│  │  EDGE           │      │  ENGINE         │      │  GATEWAY        │   │
+│  ├─────────────────┤      ├─────────────────┤      ├─────────────────┤   │
+│  │ React 19        │  ──→ │ Three.js        │  ──→ │ RESTful         │   │
+│  │ Next.js 14      │      │ WebGL Shaders   │      │ GraphQL         │   │
+│  │ TypeScript      │      │ GLSL / Physics  │      │ WebSockets      │   │
+│  │ Tailwind CSS    │      │ 60 FPS / GPU    │      │ JWT / CORS      │   │
+│  │ STATUS: S3B     │      │ STATUS: HYBRID  │      │ STATUS: LOAD    │   │
+│  └─────────────────┘      └─────────────────┘      └─────────────────┘   │
+│           │                       │                         │              │
+│           └───────────────────────┼─────────────────────────┘              │
+│                                   ↓                                        │
+│           ┌─────────────────┐      ┌─────────────────┐                   │
+│           │  📦 BACKEND     │      │  💾 DATA &      │                   │
+│           │  CORE           │      │  CACHING        │                   │
+│           ├─────────────────┤      ├─────────────────┤                   │
+│           │ Node.js         │  ──→ │ PostgreSQL      │                   │
+│           │ NestJS          │      │ Redis Cache     │                   │
+│           │ Express API     │      │ Firebase Store  │                   │
+│           │ Async Events    │      │ ACID // SUBMS   │                   │
+│           │ FAULT-TOLERANT  │      │ QUERY OPT       │                   │
+│           └─────────────────┘      └─────────────────┘                   │
+│                                                                             │
+│  ARCHITECTURE: MICROSERVICES & 3D CLIENTS                                 │
+│  TOTAL THROUGHPUT: OPTIMIZED FOR SCALE                                    │
+│  DEPLOYMENT: CI/CD DOCKER & VERCEL                                        │
+│  UPTIME: 99.99%                                                            │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+
 
 ---
 
@@ -197,6 +249,7 @@ Code Quality:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-nextjs.lirictom209.workers.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ltomxd)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l11frank/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
 [![Email](https://img.shields.io/badge/Email-velasquez8014@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
 
@@ -206,10 +259,21 @@ Code Quality:
 
 <div align="center">
 
-[![Capsule Render - Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:02845c,100:00ff9d&height=140&section=footer&text=Build%20it.%20Break%20it.%20Secure%20it.&fontSize=15&fontColor=00ff9d&fontAlignY=68&reversal=true)]
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║               ⚔️  CYBERSECURITY · FULL-STACK ARCHITECT  ⚔️            ║
+║                                                                      ║
+║                   "Build it. Break it. Secure it."                  ║
+║              I build the apps I know how to break.                  ║
+║                                                                      ║
+║          [ SECURITY: ON ] · [ DEV MODE: ACTIVE ] · [ ALWAYS: HUNTING ]
+║                                                                      ║
+║                     🦝 TOM — El Salvador 🇸🇻 🦝                      ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
-```
-[ security: ON ] · [ dev mode: ACTIVE ] · [ always: HUNTING ] 🎯
-```
+[![Capsule Render - Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:02845c,100:00ff9d&height=140&section=footer&text=Build%20it.%20Break%20it.%20Secure%20it.&fontSize=15&fontColor=00ff9d&fontAlignY=68&reversal=true)]
 
 </div>
