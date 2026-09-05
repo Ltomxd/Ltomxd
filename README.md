@@ -1,18 +1,18 @@
 <div align="center">
-  
-[![Capsule Render - Header](https://capsule-render.vercel.app/api?type=waving&color=0:050409,25:0ff3ff,50:00a1f1,75:02845c,100:9fef00&height=280&section=header&text=Franklyn%20Velásquez&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Pentester%20|%20Red%20Team%20|%20Full%20Stack%20Dev&descAlignY=58&descSize=18&descFontColor=9fef00&stroke=9fef00&strokeWidth=1)]
-
-<br/>
 
 <img src="https://media.giphy.com/media/kAbWiuvtzoG3e/giphy.gif" width="400"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&lines=Pentester+%7C+Red+Team+%7C+CTF+Hunter;Full+Stack+Developer+%7C+React+%7C+Next.js;I+break+apps...+then+I+build+better+ones;Dual+threat+-+Offensive+%26+Creative;El+Salvador+%7C+Always+on+mission"/>
+# Franklyn Velásquez
+
+## Pentester | Red Team | Full Stack Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&lines=CTF+Hunter+%7C+Vulnerability+Researcher;React+%7C+Next.js+%7C+Node.js;I+break+apps...+then+I+build+better+ones;Dual+threat+-+Offensive+%26+Creative;El+Salvador+%7C+Always+on+mission"/>
 
 <br/>
 
-| **🔗 CONNECT** | **🪪 PORTAFOLIO** | **📊 STATS** |
+| **🔗 CONNECT** | **🪪 PORTAFOLIO** | **📊 ACTIVITY** |
 |:---:|:---:|:---:|
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l11frank/) [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com) | <img alt="QR Portfolio" src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://portafolio-nextjs.lirictom209.workers.dev/" /> | ![](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Views&color=9FEF00&style=for-the-badge) |
 
@@ -21,8 +21,6 @@
 ---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `$ whoami`
-
-<img align="right" src="https://media.giphy.com/media/kAbWiuvtzoG3e/giphy.gif" width="180px"/>
 
 ```bash
 ┌─[TOM@El-Salvador]─[~]
@@ -40,8 +38,6 @@
   hobby     : CTF Flags 🚩 · Photography 📸 · Code 💻
 ```
 
-<br clear="right"/>
-
 ---
 
 ## ⚔️ Dual Threat — Two Disciplines, One Mind
@@ -53,7 +49,7 @@
 | **Goal** | Find vulnerabilities | Ship secure apps |
 | **Arsenal** | Burp Suite · Metasploit · Nmap | React · Next.js · Node.js |
 | **OS** | Kali Linux · Parrot · Ubuntu | Linux · Docker |
-| **Databases** | SQLi · NoSQLi · Recon | MySQL · MongoDB · Firebase |
+| **Databases** | SQLi · NoSQLi · Recon | MySQL · Database Security |
 | **Mindset** | Every system has a crack | Security-first design |
 | **Output** | Vulnerability reports 🚩 | Production web apps 🌐 |
 
@@ -108,9 +104,9 @@ React 18+ · Next.js 14 · TypeScript · TailwindCSS · Responsive Design
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,firebase,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,docker&theme=dark" />
 
-Node.js · Express · NestJS · MySQL · MongoDB · Firebase · WebSockets
+Node.js · Express · NestJS · MySQL · WebSockets
 
 **DevOps & Tools**
 
@@ -122,7 +118,28 @@ Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 
 ---
 
-## 📊 GitHub Activity & Stats
+## 📊 GitHub Contributions & Stats
+
+<div align="center">
+
+### 💚 Lifetime Contributions Tracker
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║         📈 ESTIMATED MONTHLY CONTRIBUTION RATE            ║
+║                                                           ║
+║   Average: ~150-200 commits/month                         ║
+║   Active projects: 5+ in production                       ║
+║   Languages: TypeScript, Python, Bash, SQL                ║
+║                                                           ║
+║   Peak Activity: Code shipping + Security audits          ║
+║   Latest Focus: Full-stack security integration           ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 <div align="center">
 
@@ -146,37 +163,16 @@ Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 
 ---
 
-## 📈 Lifetime Contributions
+## 🔥 Featured Projects & Production Systems
 
-<div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║   💚 LIFETIME CONTRIBUTIONS & COMMITS TRACKED LIVE        ║
-║                                                           ║
-║   Every line of code tells a story.                       ║
-║   Every commit is a step forward.                         ║
-║   Every contribution is a mission.                        ║
-║                                                           ║
-║   ✅ Always shipping. Always learning. Always hunting.   ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-| Project | Type | Description | Tech | Status |
-|:---|:---|:---|:---|:---|
-| **🧾 TACU FACT** | DTE Platform | Electronic invoicing for El Salvador's Ministerio de Hacienda | NestJS · Next.js · MySQL · MinIO | 🟢 Production |
-| **🏥 Clinical Records** | Medical System | Encrypted patient records with HIPAA-ready architecture | NestJS · Next.js · MySQL · SeaweedFS | 🟢 Production |
-| **🛒 Beauty Cosmetics** | E-commerce | Full-stack e-store with payment integration | Next.js · Strapi · Stripe | 🟢 Production |
-| **🎯 Portmaster** | Security Tool | Advanced port scanning & network reconnaissance CLI | Python · Socket · CLI | 🟢 Active |
-| **🐳 dps** | CLI Tool | Docker container management & monitoring utility | Bash · Docker | 🟢 Open Source |
+| Project | Category | Description | Tech Stack | Repository | Status |
+|:---|:---|:---|:---|:---|:---|
+| **🧾 TACU FACT** | DTE Platform | Electronic invoicing for El Salvador's Ministerio de Hacienda | NestJS · Next.js · MySQL · MinIO | [View Repo](https://github.com/Ltomxd/tacufactsv) | 🟢 Production |
+| **🏥 Clinical Records** | Medical System | Encrypted patient records with HIPAA-ready architecture | NestJS · Next.js · MySQL · SeaweedFS | [View Repo](https://github.com/Ltomxd/clinical-records-system) | 🟢 Production |
+| **🛍️ Zona Digital** | E-commerce | Full-stack ERP-integrated e-commerce platform with Wings | React · Node.js · MySQL · ERP Integration | [View Repo](https://github.com/Ltomxd/zona-digital-ecommerce) | 🟢 Production |
+| **🛒 Beauty Cosmetics** | E-commerce | Full-stack e-store with payment integration & product catalog | Next.js · Strapi · Stripe | [View Repo](https://github.com/Ltomxd/beauty-cosmetics) | 🟢 Production |
+| **🎯 Portmaster** | Security Tool | Advanced port scanning & network reconnaissance CLI | Python · Socket · CLI | [View Repo](https://github.com/Ltomxd/Portmaster) | 🟢 Active |
+| **🐳 dps** | CLI Tool | Docker container management & monitoring utility | Bash · Docker | [View Repo](https://github.com/Ltomxd/docker-pretty-status) | 🟢 Open Source |
 
 ---
 
@@ -208,7 +204,7 @@ Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l11frank/)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
 [![Email](https://img.shields.io/badge/Email-velasquez8014@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-portafolio%20QR-0ff3ff?style=for-the-badge&logo=globe&logoColor=black)](https://portafolio-nextjs.lirictom209.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-QR%20Scannable-0ff3ff?style=for-the-badge&logo=globe&logoColor=black)](https://portafolio-nextjs.lirictom209.workers.dev/)
 
 </div>
 
