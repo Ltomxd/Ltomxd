@@ -165,14 +165,14 @@ Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 
 ## 🔥 Featured Projects & Production Systems
 
-| Project | Category | Description | Tech Stack | Status |
-|:---|:---|:---|:---|:---|
-| **🧾 TACU FACT** | DTE Platform | Electronic invoicing for El Salvador's Ministerio de Hacienda | NestJS · Next.js · MySQL · MinIO | 🟢 Production |
-| **🏥 Clinical Records** | Medical System | Encrypted patient records with HIPAA-ready architecture | NestJS · Next.js · MySQL · SeaweedFS | 🟢 Production |
-| **🛍️ Zona Digital** | E-commerce | Full-stack ERP-integrated e-commerce platform with Wings | React · Node.js · MySQL · ERP Integration | 🟢 Production |
-| **🛒 Beauty Cosmetics** | E-commerce | Full-stack e-store with payment integration & product catalog | Next.js · Strapi · Stripe | 🟢 Production |
-| **🎯 Portmaster** | Security Tool | Advanced port scanning & network reconnaissance CLI | Python · Socket · CLI | 🟢 Active |
-| **🐳 dps** | CLI Tool | Docker container management & monitoring utility | Bash · Docker | 🟢 Open Source |
+| Project | Category | Description | Tech Stack | Repository | Status |
+|:---|:---|:---|:---|:---|:---|
+| **🧾 TACU FACT** | DTE Platform | Electronic invoicing for El Salvador's Ministerio de Hacienda | NestJS · Next.js · MySQL · MinIO | — | 🟢 Production |
+| **🏥 Clinical Records** | Medical System | Encrypted patient records with HIPAA-ready architecture | NestJS · Next.js · MySQL · SeaweedFS | — | 🟢 Production |
+| **🛍️ Zona Digital** | E-commerce | Full-stack ERP-integrated e-commerce platform with Wings | React · Node.js · MySQL · ERP Integration | — | 🟢 Production |
+| **🛒 Beauty Cosmetics** | E-commerce | Full-stack e-store with payment integration & product catalog | Next.js · Strapi · Stripe | — | 🟢 Production |
+| **🎯 Portmaster** | Security Tool | Advanced port scanning & network reconnaissance CLI | Python · Socket · CLI | [![View Repo](https://img.shields.io/badge/View-Repo-0ff3ff?style=flat-square&logo=github)](https://github.com/Ltomxd/Portmaster) | 🟢 Active |
+| **🐳 dps** | CLI Tool | Docker container management & monitoring utility | Bash · Docker | [![View Repo](https://img.shields.io/badge/View-Repo-0ff3ff?style=flat-square&logo=github)](https://github.com/Ltomxd/docker-pretty-status) | 🟢 Open Source |
 
 ---
 
