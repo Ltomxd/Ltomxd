@@ -1,27 +1,15 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d26dc564-9595-4eca-a4d6-a5f231eb72cf" width="100%"/>
-</div>
+  
+[![Capsule Render - Header](https://capsule-render.vercel.app/api?type=waving&color=0:050409,25:0ff3ff,50:00a1f1,75:02845c,100:9fef00&height=280&section=header&text=Franklyn%20Velásquez&fontSize=64&fontColor=ffffff&fontAlignY=38&fontAlign=50&desc=Pentester%20|%20Red%20Team%20|%20Full%20Stack%20Dev&descAlignY=58&descSize=18&descFontColor=9fef00&stroke=9fef00&strokeWidth=1)]
 
 <br/>
 
-<div align="center">
- 
-<img src="https://media.giphy.com/media/kAbWiuvtzoG3e/giphy.gif" width="400"/>
- 
-<br/>
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=9FEF00&center=true&vCenter=true&width=750&lines=Pentester+%7C+Red+Team+%7C+CTF+Hunter;Full+Stack+Developer+%7C+React+%7C+Next.js;I+break+apps...+then+I+build+better+ones;Dual+threat+-+Offensive+%26+Creative;El+Salvador+%7C+Always+on+mission"/>
-
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Profile+Views&color=9FEF00&style=for-the-badge)](https://github.com/Ltomxd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&label=Connect)](https://linkedin.com/in/ftoml)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-nextjs-mu.vercel.app/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
 
-![](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Profile+Views&color=9FEF00&style=for-the-badge)
+**TOM** 🦝 · **El Salvador** 🇸🇻 · **Full-Stack Security Engineer**
 
 </div>
 
@@ -29,155 +17,199 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `$ whoami`
 
-<img align="right" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" width="170px"/>
-
 ```bash
 ┌─[TOM@El-Salvador]─[~]
 └──╼ $ cat profile.yaml
 
   name      : Franklyn Velásquez
   alias     : TOM 🦝
-  roles     : Pentester · Red Team · Full Stack Dev
-  location  : El Salvador 🇸🇻
-  status    : Building & Breaking — simultaneously
-  mindset   : "I build it. I break it. I secure it."
-  hobbies   : CTF Flags 🚩 · Photography 📸
+  title     : Pentester · Red Team · Full Stack Developer
+  location  : San Salvador, El Salvador 🇸🇻
+  exp       : 7 años Frontend | Cybersecurity Specialist
+  org       : CEO/Founder @ CodeMark SV
+  mindset   : "Build it secure. Break it better."
+  status    : Always shipping. Always hunting 🎯
 ```
 
-<br clear="right"/>
-
 ---
 
-## ⚔️ Dual Threat — Two Disciplines, One Mind
+## ⚔️ Dual Threat — Security & Development
 
 <div align="center">
 
-|  | 🔴 Offensive Security | 💻 Full Stack Dev |
-|:---:|:---|:---|
-| **Goal** | Find what others miss | Ship fast & ship secure |
-| **Weapons** | Burp Suite · Metasploit · Nmap · OSINT | React · Next.js · Node.js · TypeScript |
-| **OS** | Kali Linux · Parrot OS | Any — code runs everywhere |
-| **DB** | SQLi · NoSQLi · DB Recon | MySQL · MongoDB · Firebase |
-| **Mindset** | Every system has a crack | Security-first by design |
-| **Output** | Vuln reports · Exploits · CTF flags 🚩 | Production-ready web apps 🌐 |
+| **🔴 OFFENSIVE SECURITY** | **💻 FULL STACK DEVELOPMENT** |
+|:---|:---|
+| Penetration Testing · Red Team · CTF Hunter | React · Next.js · TypeScript · Node.js |
+| Burp Suite · Metasploit · OSINT · SQLi/NoSQLi | NestJS · MySQL · Firebase · Responsive Design |
+| Kali Linux · Parrot OS · Bash Scripting | Docker · CI/CD · TailwindCSS · Framer Motion |
+| **Goal:** Exploit vulnerabilities ethically | **Goal:** Ship secure, performant apps |
+| **Deliverables:** Vuln reports · Exploits · 🚩 | **Deliverables:** Production web apps 🌐 |
 
 </div>
 
-> *"The best pentesters understand how apps are built. The best devs understand how apps get broken. I'm both."*
+> *"The best pentesters build. The best developers break. I'm both."*
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🎯 Core Competencies
 
-### 🔴 Offensive Security
+### 🔴 Offensive Security Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" title="Kali Linux · Linux"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/vmware/607078" height="48" alt="VMware" title="VMware"/>
-&nbsp;
-<img width="48" height="48" alt="icons8-seguridad-loro-48" src="https://github.com/user-attachments/assets/fcf5df1b-e058-482d-b9c3-ad766f5cac85"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite" title="Burp Suite"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark" title="Wireshark"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit" title="Metasploit"/>
-&nbsp;
-<img src="https://cdn.simpleicons.org/owasp/9FEF00" height="48" alt="OWASP" title="OWASP"/>
-&nbsp;
-<img width="48" height="48" alt="icons8-nmap-48" src="https://github.com/user-attachments/assets/8cf77d06-c5cf-400c-84be-826caac822f3" />
-&nbsp;
-<img src="https://github.com/ffuf/ffuf/blob/master/_img/ffuf_run_logo_600.png" height="48" alt="FFUF" title="FFUF"/>
-&nbsp;
+**Vulnerabilities & Exploitation**
+```
+SQLi · NoSQL Injection · XSS · CSRF · Authentication Bypass
+SSRF · LFI/RFI · JWT Vulnerabilities · API Security
+```
 
- 
-                                 
+**Tools & Frameworks**
+<img src="https://skillicons.dev/icons?i=kali,linux&theme=dark" title="Kali · Linux"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" height="48" alt="Burp Suite"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" height="48" alt="Metasploit"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" height="48" alt="Wireshark"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/nmap/4169E1" height="48" alt="Nmap"/>
+&nbsp;
+<img src="https://cdn.simpleicons.org/owasp/9FEF00" height="48" alt="OWASP"/>
+
+**Reconnaissance**
+Nmap · FFUF · Subfinder · Nuclei · Burp Scanner · OSINT Methodologies
+
 </div>
 
----
-
-### 💻 Development Stack
+### 💻 Full Stack Development Stack
 
 <div align="center">
 
-**— Languages —**
+**Frontend Architecture**
 
-<img src="https://skillicons.dev/icons?i=ts,js,python,bash,lua&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" />
 
-<br/><br/>
+React 18+ · Next.js 14 · TypeScript · TailwindCSS · Framer Motion · Responsive Design
 
-**— Frontend —**
+**Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,mysql,mongodb,firebase,docker&theme=dark" />
 
-<br/><br/>
+Node.js · Express · NestJS · MySQL · MongoDB · Firebase · WebSockets
 
-**— Backend & Databases —**
+**DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,linux&theme=dark" />
 
-<br/><br/>
-
-**— DevOps & Tools —**
-
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,linux&theme=dark" />
+Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Featured Projects & Case Studies
 
-<div align="center">
+### 🏗️ Production Systems
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1&text_color=FFFFFF&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=10&theme=algolia&hide_border=true&title_color=9FEF00&text_color=FFFFFF&bg_color=0D1117"/>
+| **Project** | **Type** | **Stack** | **Impact** |
+|:---|:---:|:---|:---|
+| **🧾 TACU FACT** | DTE/E-invoicing Platform | NestJS · Next.js · MySQL · MinIO | El Salvador's Ministerio de Hacienda compliance system · VPS infrastructure management |
+| **🏥 Clinical Records System** | Medical Data Platform | NestJS · Next.js · MySQL · SeaweedFS | Encrypted patient records · HIPAA-ready architecture |
+| **🛒 Beauty Cosmetics E-commerce** | Full-Stack E-Store | Next.js · Strapi · Tailwind | Responsive product catalog · Payment integration |
+| **🏪 Zona Digital Wings ERP** | E-commerce + ERP Integration | React · Node.js · MySQL | Real-time inventory sync · Stock reconciliation logic |
+| **🎯 CodeMark SV** | Software Development Firm | Full Stack | Leading development shop in El Salvador · Custom solutions for local & regional clients |
 
-</div>
+### 🔓 Security & Open Source
+
+| **Project** | **Description** | **Link** |
+|:---|:---|:---|
+| **dps (docker-pretty-status)** | 🐳 Lightweight CLI for Docker container monitoring & management | [GitHub](https://github.com/Ltomxd/docker-pretty-status) |
+| **Bug Bounty Reports** | Responsible disclosure · Multiple CVE findings | Private reports |
+| **CTF & HackTheBox** | Active security researcher · Building defensive mindset through offensive practice | [HackTheBox](https://app.hackthebox.com/profile/1767382) |
+
+---
+
+## 🏆 Technical Philosophy
+
+### Core Principles
+
+```yaml
+Security-First Design:
+  └─ Every feature is threat-modeled
+  └─ Input validation at all layers
+  └─ Encryption by default
+  └─ Regular security audits
+
+Performance & Scalability:
+  └─ Optimized rendering pipelines
+  └─ Database query efficiency
+  └─ Caching strategies (Redis, CDN)
+  └─ Load-balanced architectures
+
+Code Quality:
+  └─ TypeScript for type safety
+  └─ Automated testing (Jest, Vitest)
+  └─ Clean architecture patterns
+  └─ Self-documenting code
+```
+
+### Development Workflow
+
+1. **Threat Modeling** — Identify attack vectors before coding
+2. **Secure Architecture** — Design with OWASP principles
+3. **Implementation** — Type-safe, tested code
+4. **Penetration Testing** — Break what I built
+5. **Hardening** — Fix vulnerabilities, release securely
+
+---
+
+## 📈 GitHub Activity & Metrics
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ltomxd&theme=dark&hide_border=true&background=0D1117&ring=9FEF00&fire=FF6633&currStreakLabel=9FEF00&sideLabels=9FEF00&dates=FFFFFF&stroke=9FEF00)](https://git.io/streak-stats)
 
+[![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ltomxd&layout=compact&langs_count=8&theme=algolia&hide_border=true&title_color=9FEF00&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Ltomxd)
+
+[![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ltomxd&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=00A1F1&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Ltomxd)
+
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 💼 Professional Services
+
+**Specialized In:**
+- 🔍 **Web Application Penetration Testing** — Comprehensive vulnerability assessments
+- 🏗️ **Secure Full-Stack Development** — React/Next.js + Node.js ecosystems
+- 🔐 **Security Consulting** — Threat modeling, architecture reviews, incident response
+- 📱 **Frontend Optimization** — Performance auditing, accessibility, responsive design
+- 🚀 **DevOps & Infrastructure** — Docker, CI/CD pipelines, VPS management
+
+**Current Status:** 🔓 Available for high-impact roles · Security-focused development · Freelance consulting
+
+---
+
+## 🔗 Connect & Explore
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ltomxd&bg_color=0D1117&color=9FEF00&line=00A1F1&point=9FEF00&area=true&area_color=9FEF0033&hide_border=true&radius=8" width="100%"/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portafolio-nextjs.lirictom209.workers.dev/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ltomxd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
+[![Email](https://img.shields.io/badge/Email-velasquez8014@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
+
 </div>
 
 ---
 
-
-
----
-
-## 🐍 Snake
-
 <div align="center">
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake"/>
-</div>
 
----
-
-<div align="center">
+[![Capsule Render - Footer](https://capsule-render.vercel.app/api?type=waving&color=0:020409,25:050f24,50:0a2540,75:02845c,100:00ff9d&height=140&section=footer&text=Build%20it.%20Break%20it.%20Secure%20it.&fontSize=15&fontColor=00ff9d&fontAlignY=68&reversal=true)]
 
 ```
-╔════════════════════════════════════════════════════════════╗
-║                                                            ║
-║    🔴  "I build the apps I know how to break."  💻        ║
-║         "The lone wolf dies, but the pack survives."       ║
-║                                                            ║
-║               — TOM  🦝  ·  El Salvador  🇸🇻                ║
-║                                                            ║
-╚════════════════════════════════════════════════════════════╝
+[ security: ON ] · [ dev mode: ACTIVE ] · [ always: HUNTING ] 🎯
 ```
-
-`[ security: ON ]` · `[ dev mode: ACTIVE ]` · `[ always: HUNTING ]`
 
 </div>
