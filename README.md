@@ -14,56 +14,15 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l11frank/)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0ff3ff.svg?style=for-the-badge&logo=vercel&logoColor=black)](https://portafolio-nextjs.lirictom209.workers.dev/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Profile+Views&color=9FEF00&style=for-the-badge)
+| **🔗 CONNECT** | **🪪 PORTAFOLIO** | **📊 ACTIVITY** |
+|:---:|:---:|:---:|
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ftoml) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/l11frank/) [![HackTheBox](https://img.shields.io/badge/HackTheBox-%239FEF00.svg?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/1767382) [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:velasquez8014@gmail.com) | <img alt="QR Portfolio" src="https://api.qrserver.com/v1/create-qr-code/?size=140x140&data=https://portafolio-nextjs.lirictom209.workers.dev/" /> | ![](https://komarev.com/ghpvc/?username=Ltomxd&label=👁️+Profile+Views&color=9FEF00&style=for-the-badge) |
 
 </div>
 
-<style>
-  @keyframes glow-green {
-    0%, 100% { text-shadow: 0 0 5px #9FEF00, 0 0 10px #9FEF00; }
-    50% { text-shadow: 0 0 20px #9FEF00, 0 0 30px #9FEF00, 0 0 40px #0ff3ff; }
-  }
-  
-  @keyframes pulse-border {
-    0%, 100% { border-color: #9FEF00; box-shadow: 0 0 5px #9FEF00; }
-    50% { border-color: #0ff3ff; box-shadow: 0 0 20px #0ff3ff; }
-  }
-  
-  @keyframes matrix-rain {
-    0% { opacity: 0; transform: translateY(-10px); }
-    10% { opacity: 1; }
-    90% { opacity: 1; }
-    100% { opacity: 0; transform: translateY(10px); }
-  }
-  
-  .epic-header {
-    animation: glow-green 2s infinite;
-    font-weight: bold;
-    letter-spacing: 2px;
-  }
-  
-  .epic-badge {
-    animation: pulse-border 2s infinite;
-    border: 2px solid #9FEF00;
-    padding: 8px 16px;
-    border-radius: 4px;
-    display: inline-block;
-    margin: 5px;
-    font-family: 'Courier New', monospace;
-    color: #9FEF00;
-    background: rgba(159, 239, 0, 0.1);
-  }
-</style>
-
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> <span class="epic-header">`$ whoami`</span>
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> `$ whoami`
 
 <img align="right" src="https://github.com/user-attachments/assets/89901a55-2b15-470e-bf51-39ab07059814" width="170px"/>
 
