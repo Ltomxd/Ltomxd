@@ -4,7 +4,6 @@
 
 <br/>
 
-# Franklyn Velásquez
 
 ## Pentester | Red Team | Full Stack Developer
 
