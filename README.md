@@ -165,14 +165,14 @@ Docker · Nginx · GitHub Actions · Vercel · Linux · Bash
 
 ## 🔥 Featured Projects & Production Systems
 
-| Project | Category | Description | Tech Stack | Repository | Status |
-|:---|:---|:---|:---|:---|:---|
-| **🧾 TACU FACT** | DTE Platform | Electronic invoicing for El Salvador's Ministerio de Hacienda | NestJS · Next.js · MySQL · MinIO | [View Repo](https://github.com/Ltomxd/tacufactsv) | 🟢 Production |
-| **🏥 Clinical Records** | Medical System | Encrypted patient records with HIPAA-ready architecture | NestJS · Next.js · MySQL · SeaweedFS | [View Repo](https://github.com/Ltomxd/clinical-records-system) | 🟢 Production |
-| **🛍️ Zona Digital** | E-commerce | Full-stack ERP-integrated e-commerce platform with Wings | React · Node.js · MySQL · ERP Integration | [View Repo](https://github.com/Ltomxd/zona-digital-ecommerce) | 🟢 Production |
-| **🛒 Beauty Cosmetics** | E-commerce | Full-stack e-store with payment integration & product catalog | Next.js · Strapi · Stripe | [View Repo](https://github.com/Ltomxd/beauty-cosmetics) | 🟢 Production |
-| **🎯 Portmaster** | Security Tool | Advanced port scanning & network reconnaissance CLI | Python · Socket · CLI | [View Repo](https://github.com/Ltomxd/Portmaster) | 🟢 Active |
-| **🐳 dps** | CLI Tool | Docker container management & monitoring utility | Bash · Docker | [View Repo](https://github.com/Ltomxd/docker-pretty-status) | 🟢 Open Source |
+| Project | Category | Description | Tech Stack | Status |
+|:---|:---|:---|:---|:---|
+| **🧾 TACU FACT** | DTE Platform | Electronic invoicing for El Salvador's Ministerio de Hacienda | NestJS · Next.js · MySQL · MinIO | 🟢 Production |
+| **🏥 Clinical Records** | Medical System | Encrypted patient records with HIPAA-ready architecture | NestJS · Next.js · MySQL · SeaweedFS | 🟢 Production |
+| **🛍️ Zona Digital** | E-commerce | Full-stack ERP-integrated e-commerce platform with Wings | React · Node.js · MySQL · ERP Integration | 🟢 Production |
+| **🛒 Beauty Cosmetics** | E-commerce | Full-stack e-store with payment integration & product catalog | Next.js · Strapi · Stripe | 🟢 Production |
+| **🎯 Portmaster** | Security Tool | Advanced port scanning & network reconnaissance CLI | Python · Socket · CLI | 🟢 Active |
+| **🐳 dps** | CLI Tool | Docker container management & monitoring utility | Bash · Docker | 🟢 Open Source |
 
 ---
 
